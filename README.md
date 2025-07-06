@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
 <h3 align="center">A passionate .Net developer from Sweden</h3>
 
-- 🔭 I’m currently working on [Prtfolio Project](https://github.com/adamdaa87/Portfilio)
+- 🔭 I’m currently working on [Reactivities], which is a full-stack project (https://github.com/adamdaa87/Reactivities)
 
 - 🌱 I’m currently learning **React, and TypeScript**
 
