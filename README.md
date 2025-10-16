@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
 <h3 align="center">A passionate .Net developer from Sweden</h3>
 
-- 🔭 I’m currently working on [Reactivities], which is a full-stack project (https://github.com/adamdaa87/Reactivities)
-
-- 🌱 I’m currently learning **React, and TypeScript**
-
-- 👨‍💻 All of my projects are available at [https://github.com/adamdaa87](https://github.com/adamdaa87)
-
+- 🔭 I’m currently working on [Reactivities], which is a full-stack project with C#, .NET, Typescript, and React  (https://github.com/adamdaa87/Reactivities)
+  
 - 💼 My portfolio website built with React, available at [my-portfolio-1195e.web.app](https://my-portfolio-1195e.web.app/)
-
+  
+- 👨‍💻 All of my projects are available at [https://github.com/adamdaa87](https://github.com/adamdaa87)
+  
 - 📫 How to reach me **adamdaa87@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
