@@ -36,9 +36,9 @@
   </a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="Left">Languages and Tools:</h3>
 
-<p align="center">
+<p align="Left">
   <img 
     src="https://skillicons.dev/icons?i=bootstrap,cs,css,dotnet,html,js,mongodb,react,mui,ts,angular&perline=11" 
     alt="Languages and Tools" 
