@@ -1,31 +1,31 @@
-<h1 align="center">Hi 👋, I'm Adam</h1>
+<h1 align="Left">Hi 👋, I'm Adam</h1>
 
-<h3 align="center">A passionate .NET developer from Sweden</h3>
+<h3 align="Left">A passionate .NET developer from Sweden</h3>
 
-<p align="center">
+<p align="Left">
   🔭 I’m currently working on 
   <a href="https://github.com/adamdaa87/Reactivities">Reactivities</a>, 
   which is a full-stack project with C#, .NET, TypeScript, and React
 </p>
 
-<p align="center">
+<p align="Left">
   💼 My portfolio website built with React, available at 
   <a href="https://my-portfolio-1195e.web.app/">my-portfolio-1195e.web.app</a>
 </p>
 
-<p align="center">
+<p align="Left">
   👨‍💻 All of my projects are available at 
   <a href="https://github.com/adamdaa87">https://github.com/adamdaa87</a>
 </p>
 
-<p align="center">
+<p align="Left">
   📫 How to reach me 
   <strong>adamdaa87@gmail.com</strong>
 </p>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="Left">Connect with me:</h3>
 
-<p align="center">
+<p align="Left">
   <a href="https://www.linkedin.com/in/adam-d-595704b1/" target="_blank" rel="noreferrer">
     <img 
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
