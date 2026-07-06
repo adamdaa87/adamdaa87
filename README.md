@@ -20,7 +20,7 @@
 
 <p align="Left">
   📫 How to reach me 
-  <strong>adamdaa87@gmail.com</strong>
+  <strong>https://www.linkedin.com/in/adam-d-595704b1/</strong>
 </p>
 
 <h3 align="Left">Connect with me:</h3>
